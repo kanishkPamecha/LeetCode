@@ -13,17 +13,20 @@
  *     }
  * }
  */
-class Solution { 
-    public boolean same (TreeNode p, TreeNode q)
-    { if(p==null&& q==null){return true;}
-     if((p==null && q!=null)||(p!=null && q==null)||(p.val!=q.val))return false;
-     
-       
-       
-        return ( same(p.left,q.left) &&  same(p.right,q.right) ); 
+class Solution {
 
+     public boolean same(TreeNode p, TreeNode q)
+    {
+        if(p== null )
+        {
+            if(q==null)return true;
+            else return false;
+        }
+        if(q==null)return false;
+        if(p.val == q.val && same(p.left , q.left) && same(p.right,q.right) ){return true;}
+        else{return false;}
     }
     public boolean isSameTree(TreeNode p, TreeNode q) {
-         return same(p,q);
+      return  same(p,q);
     }
 }
