@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kanishkPamecha/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
@@ -85,11 +86,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -99,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
