@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkPamecha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/kanishkPamecha/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/kanishkPamecha/LeetCode/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/kanishkPamecha/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkPamecha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -158,4 +159,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kanishkPamecha/LeetCode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/kanishkPamecha/LeetCode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/kanishkPamecha/LeetCode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
