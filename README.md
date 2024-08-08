@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/kanishkPamecha/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kanishkPamecha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2846-robot-collisions](https://github.com/kanishkPamecha/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -175,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
