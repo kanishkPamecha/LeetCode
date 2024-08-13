@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishkPamecha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0015-3sum) |
+| [0040-combination-sum-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/kanishkPamecha/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -211,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kanishkPamecha/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
