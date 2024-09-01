@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanishkPamecha/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/kanishkPamecha/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kanishkPamecha/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/kanishkPamecha/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/kanishkPamecha/LeetCode/tree/master/2846-robot-collisions) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kanishkPamecha/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2846-robot-collisions](https://github.com/kanishkPamecha/LeetCode/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kanishkPamecha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanishkPamecha/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kanishkPamecha/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Strongly Connected Component
 |  |
 | ------- |
