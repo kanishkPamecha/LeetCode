@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkPamecha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0870-magic-squares-in-grid](https://github.com/kanishkPamecha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/kanishkPamecha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/kanishkPamecha/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kanishkPamecha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/kanishkPamecha/LeetCode/tree/master/0242-valid-anagram) |
+| [1256-rank-transform-of-an-array](https://github.com/kanishkPamecha/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kanishkPamecha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2846-robot-collisions](https://github.com/kanishkPamecha/LeetCode/tree/master/2846-robot-collisions) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/kanishkPamecha/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kanishkPamecha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/kanishkPamecha/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kanishkPamecha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanishkPamecha/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
