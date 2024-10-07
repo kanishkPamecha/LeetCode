@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishkPamecha/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kanishkPamecha/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/kanishkPamecha/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kanishkPamecha/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkPamecha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kanishkPamecha/LeetCode/tree/master/0567-permutation-in-string) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanishkPamecha/LeetCode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/kanishkPamecha/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kanishkPamecha/LeetCode/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/kanishkPamecha/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kanishkPamecha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/kanishkPamecha/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkPamecha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kanishkPamecha/LeetCode/tree/master/0169-majority-element) |
 | [0624-maximum-distance-in-arrays](https://github.com/kanishkPamecha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/kanishkPamecha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/kanishkPamecha/LeetCode/tree/master/0890-lemonade-change) |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/kanishkPamecha/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kanishkPamecha/LeetCode/tree/master/0169-majority-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
