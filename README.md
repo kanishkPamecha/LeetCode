@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kanishkPamecha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kanishkPamecha/LeetCode/tree/master/0567-permutation-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/kanishkPamecha/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kanishkPamecha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kanishkPamecha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/kanishkPamecha/LeetCode/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkPamecha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/kanishkPamecha/LeetCode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkPamecha/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String Matching
 |  |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/kanishkPamecha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/kanishkPamecha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/kanishkPamecha/LeetCode/tree/master/0890-lemonade-change) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
