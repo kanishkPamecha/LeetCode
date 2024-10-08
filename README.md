@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/kanishkPamecha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/kanishkPamecha/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kanishkPamecha/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/kanishkPamecha/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/kanishkPamecha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kanishkPamecha/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/kanishkPamecha/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kanishkPamecha/LeetCode/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/kanishkPamecha/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/kanishkPamecha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
