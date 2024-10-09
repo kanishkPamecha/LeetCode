@@ -296,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/kanishkPamecha/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkPamecha/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kanishkPamecha/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
