@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/kanishkPamecha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/kanishkPamecha/LeetCode/tree/master/0077-combinations) |
 ## Linked List
 |  |
 | ------- |
