@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/kanishkPamecha/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishkPamecha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/kanishkPamecha/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/kanishkPamecha/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/kanishkPamecha/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/kanishkPamecha/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kanishkPamecha/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kanishkPamecha/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kanishkPamecha/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/kanishkPamecha/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/kanishkPamecha/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kanishkPamecha/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kanishkPamecha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kanishkPamecha/LeetCode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/kanishkPamecha/LeetCode/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/kanishkPamecha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kanishkPamecha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/kanishkPamecha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kanishkPamecha/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/kanishkPamecha/LeetCode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
