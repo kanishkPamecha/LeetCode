@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/kanishkPamecha/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kanishkPamecha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkPamecha/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkPamecha/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/kanishkPamecha/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/kanishkPamecha/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kanishkPamecha/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkPamecha/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkPamecha/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/kanishkPamecha/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/kanishkPamecha/LeetCode/tree/master/2846-robot-collisions) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/kanishkPamecha/LeetCode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkPamecha/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkPamecha/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String Matching
 |  |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/kanishkPamecha/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkPamecha/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkPamecha/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -291,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/kanishkPamecha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kanishkPamecha/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishkPamecha/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkPamecha/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Data Stream
 |  |
 | ------- |
@@ -316,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/kanishkPamecha/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1694-make-sum-divisible-by-p](https://github.com/kanishkPamecha/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanishkPamecha/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Database
 |  |
 | ------- |
