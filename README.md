@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kanishkPamecha/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kanishkPamecha/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kanishkPamecha/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/kanishkPamecha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kanishkPamecha/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/kanishkPamecha/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kanishkPamecha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkPamecha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kanishkPamecha/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kanishkPamecha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kanishkPamecha/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/kanishkPamecha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kanishkPamecha/LeetCode/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/kanishkPamecha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
