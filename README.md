@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkPamecha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kanishkPamecha/LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/kanishkPamecha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/kanishkPamecha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/kanishkPamecha/LeetCode/tree/master/0890-lemonade-change) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/kanishkPamecha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishkPamecha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkPamecha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kanishkPamecha/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Tree
 |  |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/kanishkPamecha/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/kanishkPamecha/LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kanishkPamecha/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/kanishkPamecha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kanishkPamecha/LeetCode/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/kanishkPamecha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kanishkPamecha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kanishkPamecha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
