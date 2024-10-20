@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkPamecha/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishkPamecha/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/kanishkPamecha/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/kanishkPamecha/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkPamecha/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishkPamecha/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkPamecha/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishkPamecha/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishkPamecha/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkPamecha/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishkPamecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishkPamecha/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishkPamecha/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -367,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/kanishkPamecha/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kanishkPamecha/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/kanishkPamecha/LeetCode/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishkPamecha/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
