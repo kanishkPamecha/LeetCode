@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishkPamecha/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishkPamecha/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kanishkPamecha/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kanishkPamecha/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanishkPamecha/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishkPamecha/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kanishkPamecha/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanishkPamecha/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishkPamecha/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/kanishkPamecha/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kanishkPamecha/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishkPamecha/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/kanishkPamecha/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kanishkPamecha/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishkPamecha/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/kanishkPamecha/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Hash Function
 |  |
 | ------- |
